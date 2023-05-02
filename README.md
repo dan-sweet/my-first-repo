@@ -3,6 +3,8 @@
 ## Table of Contents
 - example-file.txt
 Hello world, I love using git!
+- changes to pull
+- another change for pulling
 
 Important steps for git workflow:
 1. Initialize repository with git init
