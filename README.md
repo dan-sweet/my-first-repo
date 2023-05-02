@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - example-file.txt
+Hello world, I love using git!
 
 Important steps for git workflow:
 1. Initialize repository with git init
